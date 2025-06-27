@@ -1,1 +1,1 @@
-# SolTradingBot
+# AlgoTrading
